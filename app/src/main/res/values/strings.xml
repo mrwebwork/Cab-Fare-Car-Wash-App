@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Cab Fare and Car Wash</string>
+    <string name="btnCarWash">Car Wash</string>
+    <string name="btnCabFare">Cab Fare</string>
+    <string name="btnCarWashCalc">Calculate Package</string>
+    <string name="btnCabFareResult">Cab Fare Results</string>
+    <string name="txtType">Please select type of car:</string>
+    <string name="txtLabel">How far are you going?</string>
+    <string name="txtHome">Please select from the options below:</string>
+    <string name="radioBtnExterior">Exterior Only - $10.50</string>
+    <string name="radioBtnService">Exterior With Interior Vacuum Services - $15.00</string>
+    <string name="textView">Welcome to Car and Cab Services</string>
+    <string name="txtNumOfWashes">Enter Number of Washes</string>
+    <string name="txtDistance">Enter number of miles</string>
+    <string name="txtWhichWash">Which Car Wash?</string>
+    <string name="txtHowManyWashes">How Many Washes?</string>
+
+
+    <string-array name="txtCab">
+        <item>
+            SUV
+        </item>
+        <item>
+            Sedan
+        </item>
+        <item>
+            Minivan
+        </item>
+    </string-array>
+</resources>
